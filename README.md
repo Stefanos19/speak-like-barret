@@ -73,5 +73,5 @@ Due to the small size of the script data, the model can **mimic the character’
 ## 💡 Feedback & Contributions
 
 Suggestions for improvement are very welcome!  
-Reach out to me on [Twitter](https://twitter.com/Stefanos19)
+Reach out to me on [Twitter](https://twitter.com/snikolaidis19)
 
